@@ -1,41 +1,43 @@
-## Hi there 👋
+# Felipe Cabana | IT Project Manager & AI Specialist
 
-# 👋 ¡Hola! Soy Felipe Cabana
+Estratega tecnológico con formación en **Ingeniería Industrial** y especialización en **Gerencia de Proyectos**. Mi enfoque actual se centra en la convergencia de la **Inteligencia Artificial aplicada** y el desarrollo **Backend**, liderando arquitecturas escalables que optimizan procesos de negocio mediante modelos de lenguaje (LLMs) y sistemas inteligentes.
 
-🚀 **Desarrollador Backend Jr.** con una sólida formación en **Ingeniería Industrial** y especialización en **Gerencia Estratégica de Proyectos**. Me apasiona el desarrollo de soluciones web robustas y escalables, utilizando tecnologías avanzadas como **Node.js**, **Nest.js**, **PostgreSQL**, **TypeORM** y **MongoDB**.
+---
 
-## 📊 GitHub Stats
-[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabanita2390)](https://github.com/cabanita2390/github-readme-stats)
+### 💻 Perfil Profesional
+* **Liderazgo Técnico:** Gestión de portafolios tecnológicos y equipos multidisciplinarios bajo metodologías ágiles (Scrum/Kanban).
+* **AI Engineering:** Implementación de arquitecturas **RAG**, agentes inteligentes con **LangGraph** y orquestación con **LangChain**.
+* **Backend & Cloud:** Diseño de sistemas robustos utilizando **NestJS**, **FastAPI**, **Docker** y bases de datos híbridas (PostgreSQL/MongoDB/Vector DBs).
 
-## 🌟 Tecnologías y Herramientas
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FF5733?style=for-the-badge&logo=typeorm&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-## 🔭 Actualmente estoy trabajando en...
-- **Aplicaciones Backend** utilizando Node.js y Nest.js
-- **Bases de datos** relacionales y no relacionales con PostgreSQL y MongoDB
+### 🛠️ Tecnologías y Herramientas
 
-## 🌱 Estoy aprendiendo...
-- **Python, Django** y **mejores prácticas de desarrollo**
-- **Despliegue en la nube** con Docker
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Inteligencia Artificial** | Python, LLMs (OpenAI, Anthropic), RAG, Prompt Engineering, LangGraph. |
+| **Backend & Databases** | NestJS, TypeScript, Node.js, FastAPI, PostgreSQL, MongoDB, pgvector. |
+| **Gestión & DevOps** | Git, Docker, Jira, Microsoft Project, Metodologías PMI & Agile. |
+| **Data Analysis** | Power BI, SQL, Python for Data Science. |
 
-## 👯 Estoy buscando colaborar en...
-- Proyectos de **desarrollo web** y **backend** que involucren tecnologías modernas
+---
 
-## 💬 Pregúntame sobre...
-- **Desarrollo Backend**
-- **Optimización de bases de datos**
-- **Gestión de proyectos**
+### 🔭 Proyectos e Iniciativas Actuales
+* **E-commerce & AI:** Desarrollando sistemas de recomendación y chatbots inteligentes para plataformas de nicho.
+* **Innovación Regional:** Liderando proyectos de base tecnológica (IA/Web/VR) para el fortalecimiento del sector real en Boyacá.
+* **Optimización de Procesos:** Automatización de reportes y validación de evidencias mediante NLP y RAG.
 
-## 📫 Cómo contactarme...
-- **Email:** ✉️ [cabanita2390@hotmail.com](mailto:cabanita2390@hotmail.com)
-- **LinkedIn:** [Felipe Cabana](https://www.linkedin.com/in/felipe-cabana/)
+---
 
-## 😄 Pronombres: 
-- **Él**
+### 📊 GitHub Stats
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabanita2390&show_icons=true&theme=transparent)
 
-## ⚡ Dato curioso:
-- **Ingeniería Industrial** me enseñó a optimizar procesos, ahora aplico esa habilidad al desarrollo de software.
+---
+
+### 📫 Contacto y Colaboración
+* **LinkedIn:** [linkedin.com/in/felipe-cabana](https://www.linkedin.com/in/felipe-cabana/)
+* **Email:** cabanita2390@hotmail.com
+
+---
+
+> **Nota sobre mi enfoque:** Mi formación en Ingeniería Industrial me permite ver el código no solo como una herramienta, sino como un motor de eficiencia operativa. Busco constantemente proyectos donde la tecnología sea el catalizador del retorno de inversión (ROI) y la innovación estratégica.
