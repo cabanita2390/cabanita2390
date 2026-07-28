@@ -1,4 +1,4 @@
-# Felipe Cabana | IT Project Manager & AI Specialist
+# Felipe Cabana | AI Engineer & IT Project Manager
 
 Estratega tecnológico con formación en **Ingeniería Industrial** y especialización en **Gerencia de Proyectos**. Mi enfoque actual se centra en la convergencia de la **Inteligencia Artificial aplicada** y el desarrollo **Backend**, liderando arquitecturas escalables que optimizan procesos de negocio mediante modelos de lenguaje (LLMs) y sistemas inteligentes.
 
